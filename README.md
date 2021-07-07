@@ -1,5 +1,3 @@
-# OS Tutorial Summer of Code 2021
+## [2021年开源操作系统夏令营](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code-2021)学习笔记
 
-2021年开源操作系统夏令营：第一阶段
-
-*由于期末考试，本仓库7月7日开始更新*
+- [日记](daily.md)
