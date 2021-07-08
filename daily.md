@@ -10,5 +10,12 @@
     - rustlings 之前学 CS3210 时做过一部分，今天花了一下午把最新版本的全部[完成](https://github.com/MuZhou233/rustlings)了。如果说 ruslings 有什么遗憾的话就是无法确定自己的解法是否是最优的，比如通过迭代器实现的不考虑溢出的阶乘计算，我最初的写法是`(1..=num).fold(1, |acc, x| acc * x)`，但在群里我又看到了另一个更简单的写法`(1..=num).product()`。~~在此之前我甚至不知道 product 还有乘积的含义~~
     - 看了几个 [Rust Quize](https://dtolnay.github.io/rust-quiz/1) 发现自己对 macro 还是太陌生了，之后应该注意。
     - 实现算法方面之前只刷过几道LeetCode，感觉可以多尝试
-- risc-v
+- RISC-V
     - 收集了一些学习资料，后面几天学习一下基本结构和特权级方面的内容
+
+## 21-07-08
+
+- Rust
+    - 学习了《Rust编程之道》前三章，针对自己还不熟悉的内容做了笔记
+- RISC-V
+    - 学习了《RISC-V手册》第十章，做了笔记

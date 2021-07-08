@@ -1,4 +1,5 @@
-- [日记](daily.md)
 - [《Rust 编程之道》学习笔记](Rust编程之道/README.md)
     - [第二章](Rust编程之道/第二章笔记.md)
     - [第三章](Rust编程之道/第三章笔记.md)
+- [《RISC-V手册》第十章学习笔记](RISC-V手册/第十章笔记.md)
+- [日记](daily.md)
