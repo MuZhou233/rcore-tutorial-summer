@@ -1,3 +1,6 @@
 [submodule "rustlings"]
 	path = rustlings
 	url = https://github.com/MuZhou233/rustlings
+[submodule "rCore"]
+	path = rCore
+	url = https://github.com/MuZhou233/rCore-practice
