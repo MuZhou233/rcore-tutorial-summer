@@ -1,5 +1,8 @@
 ## [2021年开源操作系统夏令营](https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code-2021)学习笔记
 
+页面已部署在 https://rcore.mosar.in  
+建议查看部署版或查看[完整列表](_sidebar.md)
+
 - [日记](daily.md)
 - [rCore 学习笔记](rCore学习笔记/README.md)
 - [《Rust编程之道》学习笔记](Rust编程之道/README.md)
