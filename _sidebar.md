@@ -1,4 +1,4 @@
-- [rCore 学习笔记](rCore学习笔记/README.md)
+- [rCore 学习笔记概述](rCore学习笔记/README.md)
     - 笔记
         - [第一章](rCore学习笔记/第一章笔记.md)
         - [第二章](rCore学习笔记/第二章笔记.md)
@@ -13,8 +13,6 @@
         - [第四章](rCore学习笔记/第四章报告.md)
         - [第五章](rCore学习笔记/第五章报告.md)
         - [第六章](rCore学习笔记/第六章报告.md)
-    - 实验
-        - [实验一](rCore学习笔记/实验一.md)
 - [《Rust 编程之道》学习笔记](Rust编程之道/README.md)
     - [第二章](Rust编程之道/第二章笔记.md)
     - [第三章](Rust编程之道/第三章笔记.md)
